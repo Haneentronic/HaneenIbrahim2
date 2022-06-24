@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **OOP ,Data structure, python, Java**
-
 - 📫 How to reach me **hanenebrahim09@gmail.com**
 
 - ⚡ Fun fact **I am adventurous**
