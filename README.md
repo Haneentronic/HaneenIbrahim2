@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/200.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneenibrahim2&label=Profile%20views&color=0e75b6&style=flat" alt="haneenibrahim2" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
-
 - 📫 How to reach me **hanenebrahim09@gmail.com**
 
 - ⚡ Fun fact **I am adventurous**
