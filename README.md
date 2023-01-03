@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **hanenebrahim09@gmail.com**
 
-- ⚡ Fun fact **I am adventurous** **ISFP-T**
+- ⚡ Fun fact **I am adventurous** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
