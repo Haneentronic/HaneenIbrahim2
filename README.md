@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haneenibrahim2&count_private=true&show_icons=true&theme=radical" alt="haneenibrahim2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haneenibrahim2&theme=dracula" alt="haneenibrahim2" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haneenibrahim2&theme=dracula" alt="Heneentronic" /></p>
